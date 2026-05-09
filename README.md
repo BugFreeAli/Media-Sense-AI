@@ -16,8 +16,9 @@
 </div>
 
 <br/>
+<img width="1210" height="595" alt="Screenshot 2026-05-09 102651" src="https://github.com/user-attachments/assets/8f600894-bbac-4c69-8e27-66e2d2470936" />
 
-## 🚀 The Pitch: Agentic AI via Vibe Coding
+## 🚀 Agentic AI via Vibe Coding
 
 Traditional deepfake detection relies on "black-box" classifiers that spit out a confidence score with zero explanation. **MediaSense** represents a paradigm shift. 
 
